@@ -26,7 +26,7 @@ function updateCaseTotalPrice(newCaseNUmber){
 document.getElementById('btn-case-plus').addEventListener('click', function(){
    const newCaseNUmber =  updateCaseNumber(true)
     updateCaseTotalPrice(newCaseNUmber)
-    calculteSubTotal()git init
+    calculteSubTotal()
 })
 
         //decrease button
